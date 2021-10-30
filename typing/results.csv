@@ -1,5 +1,5 @@
-date,time,primaryLayout,keyboard,physical layout,layout,position,style,language,punctuation,dictionary,wpm,accuracy
-2021-10-17,10:00,QWERTY,Das Model S,ISO,QWERTY,Standing,freestyle,British English,Yes,1k,102,97.6
-2021-10-17,10:00,QWERTY,Das Model S,ISO,QWERTY,Standing,freestyle,British English,Yes,5k,92,95.1
-2021-10-17,10:00,QWERTY,Das Model S,ISO,QWERTY,Standing,freestyle,British English,Yes,10k,94,95.9
-2021-10-17,10:00,QWERTY,Das Model S,ISO,QWERTY,Standing,freestyle,British English,Yes,25k,74,95.8
+date,time,primaryLayout,keyboard,physical layout,layout,position,style,language,punctuation,dictionary,durationSeconds,wpm,accuracy
+2021-10-17,10:00,QWERTY,Das Model S,ISO,QWERTY,Standing,freestyle,British English,Yes,1k,120,102,97.6
+2021-10-17,10:00,QWERTY,Das Model S,ISO,QWERTY,Standing,freestyle,British English,Yes,5k,120,92,95.1
+2021-10-17,10:00,QWERTY,Das Model S,ISO,QWERTY,Standing,freestyle,British English,Yes,10k,120,94,95.9
+2021-10-17,10:00,QWERTY,Das Model S,ISO,QWERTY,Standing,freestyle,British English,Yes,25k,120,74,95.8
