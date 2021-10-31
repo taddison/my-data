@@ -3,6 +3,7 @@ date,time,primaryLayout,keyboard,physicalLayout,osLayout,osLanguage,position,sty
 2021-10-17,10:00,QWERTY,Das Model S,ISO,QWERTY,en-GB,Standing,freestyle,British English,Yes,5k,120,92,95.1
 2021-10-17,10:00,QWERTY,Das Model S,ISO,QWERTY,en-GB,Standing,freestyle,British English,Yes,10k,120,94,95.9
 2021-10-17,10:00,QWERTY,Das Model S,ISO,QWERTY,en-GB,Standing,freestyle,British English,Yes,25k,120,74,95.8
-2021-10-30,11:00,QWERTY,Surface Book 2,ISO,QWERTY,en-GB,Sitting,freestyle,British English,Yes,10k,120,85,95.4
-2021-10-30,11:00,QWERTY,Surface Book 2,ISO,QWERTY,en-GB,Sitting,freestyle,British English,Yes,25k,120,71,94.9
-2021-10-30,17:00,QWERTY,Zagg Pro Keys iPad Air 4,ISO,QWERTY,en-US,Sitting,freestyle,British English,Yes,10k,120,82,95.8
+2021-10-30,11:00,QWERTY,Surface Book 2,ANSI,QWERTY,en-GB,Sitting,freestyle,British English,Yes,10k,120,85,95.4
+2021-10-30,11:00,QWERTY,Surface Book 2,ANSI,QWERTY,en-GB,Sitting,freestyle,British English,Yes,25k,120,71,94.9
+2021-10-30,17:00,QWERTY,Zagg Pro Keys iPad Air 4,ANSI,QWERTY,en-US,Sitting,freestyle,British English,Yes,10k,120,82,95.8
+2021-10-31,08:00,QWERTY,Zagg Pro Keys iPad Air 4,ANSI,QWERTY,en-US,Sitting,freestyle,British English,Yes,25k,120,72,96.5
